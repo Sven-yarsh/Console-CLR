@@ -2,8 +2,6 @@
 #include "complex.h"
 #include "MyForm.h"
 
-
-
 void ConsoleCLR::MyForm::my_callback(Object^ sender, System::Windows::Forms::KeyPressEventArgs^ e) {
    // why did System::Windows::Forms:: need to be added?
 
